@@ -1,0 +1,17 @@
+#body{
+	background-color:rgb(71, 71, 66);
+}
+#username1_div
+{
+    float:left;
+}
+#output
+{
+	background-color: gray;
+	border-radius: 10px;
+	border-top: 10px solid black;
+	padding:10px;
+	float:none;
+	text-align:left;
+
+}
